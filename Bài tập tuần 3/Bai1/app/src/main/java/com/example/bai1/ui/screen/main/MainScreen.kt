@@ -35,7 +35,7 @@ fun MainScreen(navController: NavHostController) {
             contentAlignment = Alignment.TopEnd
         ) {
             Column(horizontalAlignment = Alignment.End) {
-                Text(text = "Trần Đình Tuấn", fontWeight = FontWeight.Bold, fontSize = 16.sp)
+                Text(text = "Nguyễn Đăng Khôi", fontWeight = FontWeight.Bold, fontSize = 16.sp)
                 Text(text = "040205001384", fontSize = 14.sp, color = Color.Gray)
             }
         }
