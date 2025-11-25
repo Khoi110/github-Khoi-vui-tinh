@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "178380285869",
+    "project_id": "fir-fa660",
+    "storage_bucket": "fir-fa660.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178380285869:android:e2b0f1d4ed9178f19e6324",
+        "android_client_info": {
+          "package_name": "com.example.tuan5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178380285869-b8d2e99lc10tc6s6rloqpkf92j20uuj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tuan5",
+            "certificate_hash": "cfd745aa9ac2c8f7a262c2b67f0ec08f9a325735"
+          }
+        },
+        {
+          "client_id": "178380285869-pec13s82s1rijv4lmaekj8iuvtcbgp24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQHU6OWRDJjFJlkdY2Gefztd5S3eivk48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178380285869-pec13s82s1rijv4lmaekj8iuvtcbgp24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
